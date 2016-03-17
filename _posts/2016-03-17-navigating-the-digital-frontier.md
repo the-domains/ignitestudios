@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Navigating the digital frontier
-datePublished: '2016-03-17T23:34:36.848Z'
-dateModified: '2016-03-17T23:34:30.822Z'
+datePublished: '2016-03-17T23:37:32.436Z'
+dateModified: '2016-03-17T23:37:31.966Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-navigating-the-digital-frontier.md
@@ -32,3 +32,5 @@ We are a small agency located in New Zealand and the State of Hawai'i. Our missi
 With a commitment to being at the leading technological edge, strategically minded and socially responsive we aim to exceed expectations and be rewarded with meaningful customer relationships.
 
 We meet challenging goals by being diligent and deeply understanding the drivers and needs of our customers customer and treating all who choose to engage with us in a respectful and reciprocal manner. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0bc410f-4b4d-4c25-9902-c06545ed2f4f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2198aee-9b52-4442-886b-8bfaa3dbb48f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/845c5ee7-23fd-445e-9a6a-e9cdf38ca437.png)
