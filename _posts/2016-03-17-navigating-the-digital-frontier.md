@@ -5,24 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Navigating the digital frontier. '
-datePublished: '2016-03-17T23:13:02.441Z'
-dateModified: '2016-03-17T23:12:50.499Z'
+description: Navigating the digital frontier
+datePublished: '2016-03-17T23:17:49.707Z'
+dateModified: '2016-03-17T23:17:39.775Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-17-navigating-the-digital-frontier.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-navigating-the-digital-frontier.md
-published: true
 url: navigating-the-digital-frontier/index.html
 _type: Article
 
 ---
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abbe3c24-ae8e-414d-8562-16be43c08761.jpg)
 
 Navigating the digital frontier
 
