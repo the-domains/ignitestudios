@@ -2,12 +2,13 @@ name: ignitestudios
 favicon: null
 layout_spectrum: 0.4754280182532966
 typography_spectrum: 0.7937702648341656
+title: 'Ignite Studios '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-7977951-16
   facebook: null
   twitter: null
 opengraph:
