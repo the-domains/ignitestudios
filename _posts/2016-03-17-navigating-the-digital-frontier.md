@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Navigating the digital frontier
-datePublished: '2016-03-17T23:17:49.707Z'
-dateModified: '2016-03-17T23:17:39.775Z'
+datePublished: '2016-03-17T23:34:01.018Z'
+dateModified: '2016-03-17T23:19:41.511Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-navigating-the-digital-frontier.md
