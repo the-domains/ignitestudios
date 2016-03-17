@@ -1,7 +1,7 @@
 name: ignitestudios
 favicon: null
-layout_spectrum: 0.4754280182532966
-typography_spectrum: 0.7937702648341656
+layout_spectrum: 0.37158
+typography_spectrum: 0.43412
 title: 'Ignite Studios '
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6633882904425263
+    - '#1d1d1d'
+    - '#b4b8bb'
+    - '#005e7b'
+    - '#1f9774'
+    - '#c60c00'
+  brandStrength: 0.5
   lightness: 0.8850269033573568
   saturation: 0.18369696475565434
   rhythmicContrast: 0.08950529620051384
