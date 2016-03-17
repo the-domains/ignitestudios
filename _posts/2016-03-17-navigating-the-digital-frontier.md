@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Navigating the digital frontier
-datePublished: '2016-03-17T23:37:32.436Z'
-dateModified: '2016-03-17T23:37:31.966Z'
+datePublished: '2016-03-17T23:39:10.560Z'
+dateModified: '2016-03-17T23:38:35.359Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-navigating-the-digital-frontier.md
@@ -34,3 +34,4 @@ With a commitment to being at the leading technological edge, strategically mind
 We meet challenging goals by being diligent and deeply understanding the drivers and needs of our customers customer and treating all who choose to engage with us in a respectful and reciprocal manner. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0bc410f-4b4d-4c25-9902-c06545ed2f4f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2198aee-9b52-4442-886b-8bfaa3dbb48f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/845c5ee7-23fd-445e-9a6a-e9cdf38ca437.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3b1ffb4-5e95-479f-adb0-9f9f50023e5b.png)
